@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1372","emptyUsername","OrangeHRM Suite","Thu Aug 07 11:35:29 IST 2025","passed","Thu Aug 07 11:35:30 IST 2025","tests.loginTest","ChromeTest","tests.loginTest","emptyUsername"
+"","11124","validLoginTest","OrangeHRM Suite","Thu Aug 07 11:34:33 IST 2025","failed","Thu Aug 07 11:34:44 IST 2025","tests.loginTest","ChromeTest","tests.loginTest","validLoginTest"
+"","1936","emptyPassword","OrangeHRM Suite","Thu Aug 07 11:35:42 IST 2025","passed","Thu Aug 07 11:35:44 IST 2025","tests.loginTest","ChromeTest","tests.loginTest","emptyPassword"
+"","796","emptyUsernameAndPassword","OrangeHRM Suite","Thu Aug 07 11:35:52 IST 2025","broken","Thu Aug 07 11:35:52 IST 2025","tests.loginTest","ChromeTest","tests.loginTest","emptyUsernameAndPassword"
+"","4545","invalidPassword","OrangeHRM Suite","Thu Aug 07 11:35:10 IST 2025","passed","Thu Aug 07 11:35:15 IST 2025","tests.loginTest","ChromeTest","tests.loginTest","invalidPassword"
+"","3089","invalidUsername","OrangeHRM Suite","Thu Aug 07 11:34:56 IST 2025","passed","Thu Aug 07 11:35:00 IST 2025","tests.loginTest","ChromeTest","tests.loginTest","invalidUsername"
+"","2","setUp","OrangeHRM Suite","Tue Aug 05 10:35:48 IST 2025","broken","Tue Aug 05 10:35:48 IST 2025","tests.loginTest","ChromeTest","tests.loginTest","setUp"
